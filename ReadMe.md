@@ -10,4 +10,4 @@ You can setup a hot environment by Parcel, even if you change anything parcel wi
 
 2. Then add html file 
 
-3. 
+3. run command ```npx parcel index.html``` 
