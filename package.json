@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "index.html"
+    "start": "parcel watch src/index.html"
   },
   "keywords": [],
   "author": "",
